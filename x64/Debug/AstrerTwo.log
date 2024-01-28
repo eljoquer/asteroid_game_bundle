@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Omar\source\repos\AstherTwo\main.cpp(234): warning C4715: 'end_game': not all control paths return a value
+  AstrerTwo.vcxproj -> C:\Users\Omar\source\repos\AstherTwo\x64\Debug\AstrerTwo.exe
